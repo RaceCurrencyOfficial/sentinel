@@ -1,27 +1,21 @@
 # Race Sentinel
+
 <p align="center">
-<a href="https://travis-ci.org/racecrypto/sentinel" alt="Build Status">
-<img src="https://travis-ci.org/racecrypto/sentinel.svg?branch=master"/>
-</a>
-<a href="https://discord.racecrypto.com" alt="Discord">
-<img src="https://img.shields.io/discord/402827967111233546.svg"/>
-  </a>
-<a href="https://twitter.racecrypto.com" alt="Twitter">
-<img src="https://img.shields.io/twitter/follow/race_crypto.svg?style=social&label=Follow"/>
-</a>
+<a href="https://www.racecurrency.com">Homepage</a> | <a href="http://explorer.racecurrency.com/">Block Explorer</a> | <a href="https://discord.gg/knxGVP">Discord</a> | <a href="https://twitter.com/RaceCryptoCoin">Twitter</a>
 </p>
-<p align="center">
-  <a href="https://www.racecrypto.com">https://www.racecrypto.com</a> | <a href="https://explorer.racecrypto.com">Block Explorer</a> | <a href="https://ann.racecrypto.com">Announcement</a> | <a href="https://discord.racecrypto.com">Discord</a> | <a href="https://twitter.racecrypto.com">Twitter</a>
-</p>
+
+### Important
+
+RaceCoin is a project revived by the community. The takeover is still in progress, which means licencing information may not be fully correct at this moment. We do our best to update everything as soon as possible, and handle all tools we use according to the corresponding legal conditions.
 
 ## About 
-An all-powerful toolset & watchdog daemon for Race.
+An all-powerful toolset & watchdog daemon for RaceCoin.
 
-Sentinel is an autonomous agent for persisting, processing and automating Race V12.1 governance objects and tasks, and for expanded functions in the upcoming Race releases.
+Sentinel is an autonomous agent for persisting, processing and automating RaceCoin v0.2 governance objects and tasks, and for expanded functions in the upcoming RaceCoin releases.
 
-Sentinel is implemented as a Python application that binds to a local version 12.1 raced instance on each Race Masternode.
+Sentinel is implemented as a Python application that binds to a local version v0.2 raced instance on each RaceCoin Masternode.
 
-This guide covers installing Sentinel onto an existing 12.1 Masternode in Ubuntu 14.04 / 16.04.
+This guide covers installing Sentinel onto an existing v0.2 Masternode in Ubuntu 14.04 / 16.04.
 
 ## Installation
 
@@ -76,4 +70,4 @@ To view debug output, set the `SENTINEL_DEBUG` environment variable to anything 
 
 ### License
 
-Released under the MIT license, under the same terms as Race itself. See [LICENSE](LICENSE) for more info.
+Released under the MIT license, under the same terms as Race Coin itself. See [LICENSE](LICENSE) for more info.
